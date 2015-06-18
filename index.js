@@ -153,7 +153,7 @@ _(fs.createReadStream(path.join(__dirname, 'data', 'BR-1880-1890.csv'), {
   })
   .done(function() {
 
-    var streetFeatures = new Array;
+    var streetFeatures = [];
     for(var street in data.street) {
       streetFeatures.push(data.street[street]);
     }
@@ -171,7 +171,28 @@ _(fs.createReadStream(path.join(__dirname, 'data', 'BR-1880-1890.csv'), {
       features: placeFeatures
     }, null, 2));
 
-    fs.writeFileSync('./data/br.json', JSON.stringify(data.br, null, 2));
+    var br = {};
+    for(var street in data.br) {
+      br[street] = {
+        geboorteplaats: {},
+        beroep: {}
+      };
+
+      data.br[street].forEach(function(item) {
+        if (br[street].geboorteplaats[item.geboorteplaats] === undefined) {
+          br[street].geboorteplaats[item.geboorteplaats] = 0;
+        }
+
+        if (br[street].beroep[item.beroep] === undefined) {
+          br[street].beroep[item.beroep] = 0;
+        }
+
+        br[street].geboorteplaats[item.geboorteplaats] += 1;
+        br[street].beroep[item.beroep] += 1;
+      });
+    }
+
+    fs.writeFileSync('./data/br.json', JSON.stringify(br, null, 2));
 
     fs.writeFileSync('./data/streets.json', JSON.stringify(data.street, null, 2));
     fs.writeFileSync('./data/places.json', JSON.stringify(data.place, null, 2));
