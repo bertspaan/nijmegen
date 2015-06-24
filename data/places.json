@@ -80,17 +80,17 @@
     "properties": {
       "query": "Harderwijk",
       "pit": {
-        "hgid": "tgn/7262367",
+        "hgid": "geonames/2754848",
         "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/7262367",
-        "source": "tgn"
+        "uri": "http://sws.geonames.org/2754848",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5,
-        52.733333
+        5.62083,
+        52.34167
       ]
     }
   },
@@ -129,6 +129,25 @@
       "coordinates": [
         6.56667,
         53.21917
+      ]
+    }
+  },
+  "Borselen": {
+    "type": "Feature",
+    "properties": {
+      "query": "Borselen",
+      "pit": {
+        "hgid": "tgn/7258209",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/7258209",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.733333,
+        51.433333
       ]
     }
   },
@@ -175,17 +194,17 @@
     "properties": {
       "query": "Zwolle",
       "pit": {
-        "hgid": "geonames/2743477",
+        "hgid": "tgn/7007077",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2743477",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7007077",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        6.09444,
-        52.5125
+        6.083333,
+        52.5
       ]
     }
   },
@@ -303,25 +322,6 @@
       ]
     }
   },
-  "Waardenburg": {
-    "type": "Feature",
-    "properties": {
-      "query": "Waardenburg",
-      "pit": {
-        "hgid": "geonames/2745116",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2745116",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.25694,
-        51.8325
-      ]
-    }
-  },
   "Rijswijk": {
     "type": "Feature",
     "properties": {
@@ -338,6 +338,25 @@
       "coordinates": [
         5.025,
         51.7975
+      ]
+    }
+  },
+  "Waardenburg": {
+    "type": "Feature",
+    "properties": {
+      "query": "Waardenburg",
+      "pit": {
+        "hgid": "geonames/2745116",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2745116",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.25694,
+        51.8325
       ]
     }
   },
@@ -683,6 +702,25 @@
       ]
     }
   },
+  "Batavia": {
+    "type": "Feature",
+    "properties": {
+      "query": "Batavia",
+      "pit": {
+        "hgid": "geonames/2749296",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2749296",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.63194,
+        51.93167
+      ]
+    }
+  },
   "den Bosch": {
     "type": "Feature",
     "properties": {
@@ -878,17 +916,17 @@
     "properties": {
       "query": "Kampen",
       "pit": {
-        "hgid": "geonames/2753106",
+        "hgid": "tgn/7264021",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2753106",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7264021",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.91111,
-        52.555
+        5.45,
+        53.1
       ]
     }
   },
@@ -1011,17 +1049,17 @@
     "properties": {
       "query": "Vlissingen",
       "pit": {
-        "hgid": "tgn/7006750",
+        "hgid": "geonames/2745392",
         "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/7006750",
-        "source": "tgn"
+        "uri": "http://sws.geonames.org/2745392",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        3.583333,
-        51.45
+        3.57361,
+        51.4425
       ]
     }
   },
@@ -1049,17 +1087,17 @@
     "properties": {
       "query": "Alfen (ZH.)",
       "pit": {
-        "hgid": "geonames/2759876",
+        "hgid": "tgn/7258710",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2759876",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7258710",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.47083,
-        51.8225
+        5.466667,
+        51.816667
       ]
     }
   },
@@ -1410,17 +1448,17 @@
     "properties": {
       "query": "Alfen",
       "pit": {
-        "hgid": "geonames/2759876",
+        "hgid": "tgn/7258710",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2759876",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7258710",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.47083,
-        51.8225
+        5.466667,
+        51.816667
       ]
     }
   },
@@ -1676,17 +1714,17 @@
     "properties": {
       "query": "Huissen",
       "pit": {
-        "hgid": "geonames/2753504",
+        "hgid": "geonames/2753468",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2753504",
+        "uri": "http://sws.geonames.org/2753468",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.93333,
-        51.93833
+        5.24167,
+        52.29917
       ]
     }
   },
@@ -1823,25 +1861,6 @@
       ]
     }
   },
-  "Zutphen": {
-    "type": "Feature",
-    "properties": {
-      "query": "Zutphen",
-      "pit": {
-        "hgid": "geonames/2743608",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2743608",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.20139,
-        52.13833
-      ]
-    }
-  },
   "Buurlo": {
     "type": "Feature",
     "properties": {
@@ -1861,22 +1880,22 @@
       ]
     }
   },
-  "Driel": {
+  "Zutphen": {
     "type": "Feature",
     "properties": {
-      "query": "Driel",
+      "query": "Zutphen",
       "pit": {
-        "hgid": "geonames/2756591",
+        "hgid": "geonames/2743608",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2756591",
+        "uri": "http://sws.geonames.org/2743608",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.81389,
-        51.95917
+        6.20139,
+        52.13833
       ]
     }
   },
@@ -1896,6 +1915,25 @@
       "coordinates": [
         4.80686,
         52.47494
+      ]
+    }
+  },
+  "Driel": {
+    "type": "Feature",
+    "properties": {
+      "query": "Driel",
+      "pit": {
+        "hgid": "geonames/2756591",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2756591",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.81389,
+        51.95917
       ]
     }
   },
@@ -2070,6 +2108,25 @@
       ]
     }
   },
+  "Bunnik": {
+    "type": "Feature",
+    "properties": {
+      "query": "Bunnik",
+      "pit": {
+        "hgid": "geonames/2758106",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2758106",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.19861,
+        52.06667
+      ]
+    }
+  },
   "Elsloo": {
     "type": "Feature",
     "properties": {
@@ -2105,25 +2162,6 @@
       "coordinates": [
         6.61944,
         52.57583
-      ]
-    }
-  },
-  "Bunnik": {
-    "type": "Feature",
-    "properties": {
-      "query": "Bunnik",
-      "pit": {
-        "hgid": "geonames/2758106",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758106",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.19861,
-        52.06667
       ]
     }
   },
@@ -3343,25 +3381,6 @@
       ]
     }
   },
-  "Wijk bij Duurstede": {
-    "type": "Feature",
-    "properties": {
-      "query": "Wijk bij Duurstede",
-      "pit": {
-        "hgid": "geonames/2744483",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2744483",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.34167,
-        51.97417
-      ]
-    }
-  },
   "Roermond": {
     "type": "Feature",
     "properties": {
@@ -3378,6 +3397,25 @@
       "coordinates": [
         5.9875,
         51.19417
+      ]
+    }
+  },
+  "Wijk bij Duurstede": {
+    "type": "Feature",
+    "properties": {
+      "query": "Wijk bij Duurstede",
+      "pit": {
+        "hgid": "geonames/2744483",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2744483",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.34167,
+        51.97417
       ]
     }
   },
@@ -3625,6 +3663,25 @@
       "coordinates": [
         5.633333,
         51.75
+      ]
+    }
+  },
+  "Wychen": {
+    "type": "Feature",
+    "properties": {
+      "query": "Wychen",
+      "pit": {
+        "hgid": "geonames/2744514",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2744514",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.725,
+        51.80917
       ]
     }
   },
@@ -3994,17 +4051,17 @@
     "properties": {
       "query": "Beers",
       "pit": {
-        "hgid": "geonames/2759309",
+        "hgid": "tgn/7258340",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2759309",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7258340",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.82778,
-        51.72583
+        5.833333,
+        51.716667
       ]
     }
   },
@@ -4393,17 +4450,17 @@
     "properties": {
       "query": "Zevenbergen",
       "pit": {
-        "hgid": "geonames/2743947",
+        "hgid": "tgn/7274009",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2743947",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7274009",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.60417,
-        51.645
+        5.566667,
+        51.733333
       ]
     }
   },
@@ -4431,17 +4488,17 @@
     "properties": {
       "query": "Oosterhout",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -5172,17 +5229,17 @@
     "properties": {
       "query": "Oosterhout (Nb)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -5248,17 +5305,17 @@
     "properties": {
       "query": "Hedel",
       "pit": {
-        "hgid": "geonames/2754719",
+        "hgid": "tgn/1047827",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754719",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/1047827",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.26134,
-        51.74802
+        5.266667,
+        51.75
       ]
     }
   },
@@ -5381,17 +5438,17 @@
     "properties": {
       "query": "Oosterhout (Gelderland)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -5419,17 +5476,17 @@
     "properties": {
       "query": "Heusden",
       "pit": {
-        "hgid": "geonames/2754136",
+        "hgid": "tgn/4005002",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754136",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/4005002",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.76389,
-        51.38417
+        5.133333,
+        51.733333
       ]
     }
   },
@@ -5924,6 +5981,25 @@
       "coordinates": [
         6.316667,
         52.05
+      ]
+    }
+  },
+  "Cleve": {
+    "type": "Feature",
+    "properties": {
+      "query": "Cleve",
+      "pit": {
+        "hgid": "tgn/7260610",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/7260610",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.116667,
+        51.916667
       ]
     }
   },
@@ -6616,17 +6692,17 @@
     "properties": {
       "query": "Zt. Bommel",
       "pit": {
-        "hgid": "geonames/2757253",
+        "hgid": "geonames/2744102",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2757253",
+        "uri": "http://sws.geonames.org/2744102",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.28472,
-        51.71583
+        5.24444,
+        51.81
       ]
     }
   },
@@ -6668,25 +6744,6 @@
       ]
     }
   },
-  "Medemblik": {
-    "type": "Feature",
-    "properties": {
-      "query": "Medemblik",
-      "pit": {
-        "hgid": "geonames/2751073",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2751073",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.10556,
-        52.77167
-      ]
-    }
-  },
   "Denekamp": {
     "type": "Feature",
     "properties": {
@@ -6703,6 +6760,25 @@
       "coordinates": [
         7.00694,
         52.3775
+      ]
+    }
+  },
+  "Medemblik": {
+    "type": "Feature",
+    "properties": {
+      "query": "Medemblik",
+      "pit": {
+        "hgid": "geonames/2751073",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2751073",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.10556,
+        52.77167
       ]
     }
   },
@@ -6749,17 +6825,17 @@
     "properties": {
       "query": "Emmerick",
       "pit": {
-        "hgid": "geonames/2755599",
+        "hgid": "geonames/2743949",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2755599",
+        "uri": "http://sws.geonames.org/2743949",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        6.37639,
-        51.87333
+        6.07083,
+        51.93
       ]
     }
   },
@@ -6939,17 +7015,17 @@
     "properties": {
       "query": "Assendelft",
       "pit": {
-        "hgid": "verdwenen-dorpen/dd028412-657e-b8eb-d7de-1a9b2d94c1f9",
+        "hgid": "geonames/2759631",
         "type": "hg:Place",
-        "uri": "http://www.histopo.nl/plaats/dd028412-657e-b8eb-d7de-1a9b2d94c1f9",
-        "source": "verdwenen-dorpen"
+        "uri": "http://sws.geonames.org/2759631",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.72587876617,
-        52.4851598078
+        4.74306,
+        52.46833
       ]
     }
   },
@@ -7319,17 +7395,36 @@
     "properties": {
       "query": "Empel",
       "pit": {
-        "hgid": "tgn/7260088",
+        "hgid": "geonames/2756116",
         "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/7260088",
-        "source": "tgn"
+        "uri": "http://sws.geonames.org/2756116",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.3,
-        51.733333
+        5.32639,
+        51.73083
+      ]
+    }
+  },
+  "Wichen": {
+    "type": "Feature",
+    "properties": {
+      "query": "Wichen",
+      "pit": {
+        "hgid": "geonames/2744514",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2744514",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.725,
+        51.80917
       ]
     }
   },
@@ -7352,25 +7447,6 @@
       ]
     }
   },
-  "Vierlingsbeek": {
-    "type": "Feature",
-    "properties": {
-      "query": "Vierlingsbeek",
-      "pit": {
-        "hgid": "geonames/2745550",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2745550",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.00972,
-        51.595
-      ]
-    }
-  },
   "Dieden": {
     "type": "Feature",
     "properties": {
@@ -7387,6 +7463,25 @@
       "coordinates": [
         5.60972,
         51.82
+      ]
+    }
+  },
+  "Vierlingsbeek": {
+    "type": "Feature",
+    "properties": {
+      "query": "Vierlingsbeek",
+      "pit": {
+        "hgid": "geonames/2745550",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2745550",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.00972,
+        51.595
       ]
     }
   },
@@ -7433,17 +7528,17 @@
     "properties": {
       "query": "Oosterhout (Gld)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -8003,17 +8098,17 @@
     "properties": {
       "query": "Keller bij Cleve",
       "pit": {
-        "hgid": "geonames/2744483",
+        "hgid": "tgn/7260610",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2744483",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7260610",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.34167,
-        51.97417
+        6.116667,
+        51.916667
       ]
     }
   },
@@ -8231,17 +8326,17 @@
     "properties": {
       "query": "Antwerpen",
       "pit": {
-        "hgid": "pleiades/places_108747_antwerpen",
+        "hgid": "kloeke/K244p",
         "type": "hg:Place",
-        "uri": "http://pleiades.stoa.org/places/108747/antwerpen",
-        "source": "pleiades"
+        "uri": "http://www.meertens.knaw.nl/kloeke/index.php?kloekenummer=K244p",
+        "source": "kloeke"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.399272,
-        51.219718
+        4.41826547949,
+        51.2132702115
       ]
     }
   },
@@ -8283,25 +8378,6 @@
       ]
     }
   },
-  "Makkum": {
-    "type": "Feature",
-    "properties": {
-      "query": "Makkum",
-      "pit": {
-        "hgid": "geonames/2751254",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2751254",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.40231,
-        53.05458
-      ]
-    }
-  },
   "Purmerende": {
     "type": "Feature",
     "properties": {
@@ -8318,6 +8394,25 @@
       "coordinates": [
         4.95972,
         52.505
+      ]
+    }
+  },
+  "Makkum": {
+    "type": "Feature",
+    "properties": {
+      "query": "Makkum",
+      "pit": {
+        "hgid": "geonames/2751254",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2751254",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.40231,
+        53.05458
       ]
     }
   },
@@ -8416,25 +8511,6 @@
       ]
     }
   },
-  "Groote Lindt": {
-    "type": "Feature",
-    "properties": {
-      "query": "Groote Lindt",
-      "pit": {
-        "hgid": "tgn/7261232",
-        "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/7261232",
-        "source": "tgn"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        4.616667,
-        51.816667
-      ]
-    }
-  },
   "Purmerend": {
     "type": "Feature",
     "properties": {
@@ -8451,6 +8527,25 @@
       "coordinates": [
         4.95972,
         52.505
+      ]
+    }
+  },
+  "Groote Lindt": {
+    "type": "Feature",
+    "properties": {
+      "query": "Groote Lindt",
+      "pit": {
+        "hgid": "tgn/7261232",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/7261232",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.616667,
+        51.816667
       ]
     }
   },
@@ -8896,17 +8991,17 @@
     "properties": {
       "query": "Capellen",
       "pit": {
-        "hgid": "geonames/2758012",
+        "hgid": "tgn/7262847",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758012",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7262847",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.57778,
-        51.92917
+        4.983333,
+        51.7
       ]
     }
   },
@@ -9827,17 +9922,17 @@
     "properties": {
       "query": "Oosterhout N B",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -10131,17 +10226,17 @@
     "properties": {
       "query": "Strijen-Sas",
       "pit": {
-        "hgid": "geonames/2746609",
+        "hgid": "verdwenen-dorpen/4304163a-bc0b-3fa9-f9a0-936e41d49091",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2746609",
-        "source": "geonames"
+        "uri": "http://www.histopo.nl/plaats/4304163a-bc0b-3fa9-f9a0-936e41d49091",
+        "source": "verdwenen-dorpen"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.55083,
-        51.74521
+        4.5129760524,
+        51.781051362
       ]
     }
   },
@@ -10221,25 +10316,6 @@
       ]
     }
   },
-  "Nieuweschans": {
-    "type": "Feature",
-    "properties": {
-      "query": "Nieuweschans",
-      "pit": {
-        "hgid": "tgn/1047981",
-        "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/1047981",
-        "source": "tgn"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        7.2,
-        53.183333
-      ]
-    }
-  },
   "Donkerbroek": {
     "type": "Feature",
     "properties": {
@@ -10256,6 +10332,25 @@
       "coordinates": [
         6.23927,
         53.01734
+      ]
+    }
+  },
+  "Nieuweschans": {
+    "type": "Feature",
+    "properties": {
+      "query": "Nieuweschans",
+      "pit": {
+        "hgid": "tgn/1047981",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/1047981",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.2,
+        53.183333
       ]
     }
   },
@@ -10772,25 +10867,6 @@
       ]
     }
   },
-  "Scheemda": {
-    "type": "Feature",
-    "properties": {
-      "query": "Scheemda",
-      "pit": {
-        "hgid": "geonames/2747661",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2747661",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.97222,
-        53.17333
-      ]
-    }
-  },
   "Finsterwolde": {
     "type": "Feature",
     "properties": {
@@ -10807,6 +10883,25 @@
       "coordinates": [
         7.08472,
         53.19833
+      ]
+    }
+  },
+  "Scheemda": {
+    "type": "Feature",
+    "properties": {
+      "query": "Scheemda",
+      "pit": {
+        "hgid": "geonames/2747661",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2747661",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.97222,
+        53.17333
       ]
     }
   },
@@ -10848,25 +10943,6 @@
       ]
     }
   },
-  "Maarn": {
-    "type": "Feature",
-    "properties": {
-      "query": "Maarn",
-      "pit": {
-        "hgid": "geonames/2751320",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2751320",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.37083,
-        52.06417
-      ]
-    }
-  },
   "Gameren": {
     "type": "Feature",
     "properties": {
@@ -10883,6 +10959,25 @@
       "coordinates": [
         5.20417,
         51.80083
+      ]
+    }
+  },
+  "Maarn": {
+    "type": "Feature",
+    "properties": {
+      "query": "Maarn",
+      "pit": {
+        "hgid": "geonames/2751320",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2751320",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.37083,
+        52.06417
       ]
     }
   },
@@ -12753,17 +12848,17 @@
     "properties": {
       "query": "Oosterhout G",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -12897,6 +12992,25 @@
       "coordinates": [
         5.99965,
         53.3714
+      ]
+    }
+  },
+  "Inden": {
+    "type": "Feature",
+    "properties": {
+      "query": "Inden",
+      "pit": {
+        "hgid": "geonames/2748457",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2748457",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.73906,
+        51.57632
       ]
     }
   },
@@ -13049,6 +13163,25 @@
       "coordinates": [
         5.33194,
         51.91167
+      ]
+    }
+  },
+  "Vollen": {
+    "type": "Feature",
+    "properties": {
+      "query": "Vollen",
+      "pit": {
+        "hgid": "geonames/2745333",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2745333",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.95417,
+        52.68083
       ]
     }
   },
@@ -13261,25 +13394,6 @@
       ]
     }
   },
-  "Hees G": {
-    "type": "Feature",
-    "properties": {
-      "query": "Hees G",
-      "pit": {
-        "hgid": "geonames/2754641",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754641",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.36667,
-        52.74917
-      ]
-    }
-  },
   "Oudkarspel": {
     "type": "Feature",
     "properties": {
@@ -13296,6 +13410,25 @@
       "coordinates": [
         4.80556,
         52.71583
+      ]
+    }
+  },
+  "Hees G": {
+    "type": "Feature",
+    "properties": {
+      "query": "Hees G",
+      "pit": {
+        "hgid": "geonames/2754641",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2754641",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.36667,
+        52.74917
       ]
     }
   },
@@ -13874,17 +14007,17 @@
     "properties": {
       "query": "Oosterhout (Geld)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -14007,17 +14140,17 @@
     "properties": {
       "query": "Huissen (Geld.)",
       "pit": {
-        "hgid": "geonames/2753504",
+        "hgid": "geonames/2753468",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2753504",
+        "uri": "http://sws.geonames.org/2753468",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.93333,
-        51.93833
+        5.24167,
+        52.29917
       ]
     }
   },
@@ -14273,17 +14406,17 @@
     "properties": {
       "query": "Weert",
       "pit": {
-        "hgid": "geonames/2744911",
+        "hgid": "tgn/7006858",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2744911",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006858",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.70694,
-        51.25167
+        5.716667,
+        51.25
       ]
     }
   },
@@ -14401,25 +14534,6 @@
       ]
     }
   },
-  "Spanga": {
-    "type": "Feature",
-    "properties": {
-      "query": "Spanga",
-      "pit": {
-        "hgid": "geonames/2746976",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2746976",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.88382,
-        52.81904
-      ]
-    }
-  },
   "Ried": {
     "type": "Feature",
     "properties": {
@@ -14436,6 +14550,25 @@
       "coordinates": [
         5.58929,
         53.22258
+      ]
+    }
+  },
+  "Spanga": {
+    "type": "Feature",
+    "properties": {
+      "query": "Spanga",
+      "pit": {
+        "hgid": "geonames/2746976",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2746976",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.88382,
+        52.81904
       ]
     }
   },
@@ -15375,17 +15508,17 @@
     "properties": {
       "query": "Maas-Bommel",
       "pit": {
-        "hgid": "geonames/2757253",
+        "hgid": "geonames/2744102",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2757253",
+        "uri": "http://sws.geonames.org/2744102",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.28472,
-        51.71583
+        5.24444,
+        51.81
       ]
     }
   },
@@ -15527,17 +15660,17 @@
     "properties": {
       "query": "Gestel",
       "pit": {
-        "hgid": "kloeke/K312c",
+        "hgid": "geonames/2755562",
         "type": "hg:Place",
-        "uri": "http://www.meertens.knaw.nl/kloeke/index.php?kloekenummer=K312c",
-        "source": "kloeke"
+        "uri": "http://sws.geonames.org/2755562",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.11314181588,
-        51.114142747
+        5.43989,
+        51.41577
       ]
     }
   },
@@ -15959,10 +16092,10 @@
       ]
     }
   },
-  "Vlagwedde": {
+  "Vlagtwedde": {
     "type": "Feature",
     "properties": {
-      "query": "Vlagwedde",
+      "query": "Vlagtwedde",
       "pit": {
         "hgid": "geonames/2745461",
         "type": "hg:Place",
@@ -15978,10 +16111,10 @@
       ]
     }
   },
-  "Vlagtwedde": {
+  "Vlagwedde": {
     "type": "Feature",
     "properties": {
-      "query": "Vlagtwedde",
+      "query": "Vlagwedde",
       "pit": {
         "hgid": "geonames/2745461",
         "type": "hg:Place",
@@ -16116,17 +16249,17 @@
     "properties": {
       "query": "Capel",
       "pit": {
-        "hgid": "geonames/2751433",
+        "hgid": "tgn/7262847",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2751433",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7262847",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.04583,
-        51.99167
+        4.983333,
+        51.7
       ]
     }
   },
@@ -16192,17 +16325,17 @@
     "properties": {
       "query": "Broekhuizen",
       "pit": {
-        "hgid": "geonames/2758266",
+        "hgid": "tgn/7262516",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758266",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7262516",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        6.16389,
-        51.48583
+        6.166667,
+        51.483333
       ]
     }
   },
@@ -16681,25 +16814,6 @@
       ]
     }
   },
-  "Tricht": {
-    "type": "Feature",
-    "properties": {
-      "query": "Tricht",
-      "pit": {
-        "hgid": "geonames/2746162",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2746162",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.26806,
-        51.89083
-      ]
-    }
-  },
   "Buitenpost": {
     "type": "Feature",
     "properties": {
@@ -16716,6 +16830,25 @@
       "coordinates": [
         6.14483,
         53.25166
+      ]
+    }
+  },
+  "Tricht": {
+    "type": "Feature",
+    "properties": {
+      "query": "Tricht",
+      "pit": {
+        "hgid": "geonames/2746162",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2746162",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.26806,
+        51.89083
       ]
     }
   },
@@ -17389,17 +17522,17 @@
     "properties": {
       "query": "Bommel",
       "pit": {
-        "hgid": "geonames/2757253",
+        "hgid": "geonames/2744102",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2757253",
+        "uri": "http://sws.geonames.org/2744102",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.28472,
-        51.71583
+        5.24444,
+        51.81
       ]
     }
   },
@@ -17655,17 +17788,17 @@
     "properties": {
       "query": "Maas Bommel",
       "pit": {
-        "hgid": "geonames/2757253",
+        "hgid": "geonames/2744102",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2757253",
+        "uri": "http://sws.geonames.org/2744102",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.28472,
-        51.71583
+        5.24444,
+        51.81
       ]
     }
   },
@@ -18282,17 +18415,17 @@
     "properties": {
       "query": "Oosterhout (Noord-Brabant)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -18866,10 +18999,10 @@
       ]
     }
   },
-  "St. Johann": {
+  "St Johann": {
     "type": "Feature",
     "properties": {
-      "query": "St. Johann",
+      "query": "St Johann",
       "pit": {
         "hgid": "geonames/2747248",
         "type": "hg:Place",
@@ -18885,10 +19018,10 @@
       ]
     }
   },
-  "St Johann": {
+  "St. Johann": {
     "type": "Feature",
     "properties": {
-      "query": "St Johann",
+      "query": "St. Johann",
       "pit": {
         "hgid": "geonames/2747248",
         "type": "hg:Place",
@@ -18939,6 +19072,25 @@
       "coordinates": [
         3.79861,
         51.2275
+      ]
+    }
+  },
+  "des Ponts": {
+    "type": "Feature",
+    "properties": {
+      "query": "des Ponts",
+      "pit": {
+        "hgid": "geonames/2747371",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2747371",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.94076,
+        51.65594
       ]
     }
   },
@@ -19550,25 +19702,6 @@
       ]
     }
   },
-  "Haren G": {
-    "type": "Feature",
-    "properties": {
-      "query": "Haren G",
-      "pit": {
-        "hgid": "tgn/1047811",
-        "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/1047811",
-        "source": "tgn"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.233333,
-        51.6
-      ]
-    }
-  },
   "Uitgeest": {
     "type": "Feature",
     "properties": {
@@ -19585,6 +19718,25 @@
       "coordinates": [
         4.70972,
         52.52917
+      ]
+    }
+  },
+  "Haren G": {
+    "type": "Feature",
+    "properties": {
+      "query": "Haren G",
+      "pit": {
+        "hgid": "tgn/1047811",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/1047811",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.233333,
+        51.6
       ]
     }
   },
@@ -19612,17 +19764,17 @@
     "properties": {
       "query": "Z. Bommel",
       "pit": {
-        "hgid": "geonames/2757253",
+        "hgid": "geonames/2744102",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2757253",
+        "uri": "http://sws.geonames.org/2744102",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.28472,
-        51.71583
+        5.24444,
+        51.81
       ]
     }
   },
@@ -20125,17 +20277,17 @@
     "properties": {
       "query": "Strijen",
       "pit": {
-        "hgid": "geonames/2746609",
+        "hgid": "verdwenen-dorpen/4304163a-bc0b-3fa9-f9a0-936e41d49091",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2746609",
-        "source": "geonames"
+        "uri": "http://www.histopo.nl/plaats/4304163a-bc0b-3fa9-f9a0-936e41d49091",
+        "source": "verdwenen-dorpen"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.55083,
-        51.74521
+        4.5129760524,
+        51.781051362
       ]
     }
   },
@@ -20576,25 +20728,6 @@
       ]
     }
   },
-  "Hees (Gelderl.)": {
-    "type": "Feature",
-    "properties": {
-      "query": "Hees (Gelderl.)",
-      "pit": {
-        "hgid": "geonames/2754641",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754641",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.36667,
-        52.74917
-      ]
-    }
-  },
   "Mil c.a.": {
     "type": "Feature",
     "properties": {
@@ -20611,6 +20744,25 @@
       "coordinates": [
         5.77917,
         51.68833
+      ]
+    }
+  },
+  "Hees (Gelderl.)": {
+    "type": "Feature",
+    "properties": {
+      "query": "Hees (Gelderl.)",
+      "pit": {
+        "hgid": "geonames/2754641",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2754641",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.36667,
+        52.74917
       ]
     }
   },
@@ -20828,17 +20980,17 @@
     "properties": {
       "query": "Oosterhout Gelderland",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -21208,17 +21360,17 @@
     "properties": {
       "query": "Rossem",
       "pit": {
-        "hgid": "geonames/2747908",
+        "hgid": "tgn/7268580",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2747908",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7268580",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.33333,
-        51.80083
+        5.333333,
+        51.8
       ]
     }
   },
@@ -22704,25 +22856,6 @@
       ]
     }
   },
-  "Princenhage": {
-    "type": "Feature",
-    "properties": {
-      "query": "Princenhage",
-      "pit": {
-        "hgid": "geonames/2748457",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2748457",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        4.73906,
-        51.57632
-      ]
-    }
-  },
   "Erkelenz": {
     "type": "Feature",
     "properties": {
@@ -22742,6 +22875,25 @@
       ]
     }
   },
+  "Princenhage": {
+    "type": "Feature",
+    "properties": {
+      "query": "Princenhage",
+      "pit": {
+        "hgid": "geonames/2748457",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2748457",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.73906,
+        51.57632
+      ]
+    }
+  },
   "Vilvoorde": {
     "type": "Feature",
     "properties": {
@@ -22758,6 +22910,25 @@
       "coordinates": [
         4.42514257497,
         50.9322042909
+      ]
+    }
+  },
+  "Greven": {
+    "type": "Feature",
+    "properties": {
+      "query": "Greven",
+      "pit": {
+        "hgid": "geonames/2747371",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2747371",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.94076,
+        51.65594
       ]
     }
   },
@@ -22796,6 +22967,25 @@
       "coordinates": [
         5.63367,
         51.66244
+      ]
+    }
+  },
+  "Loer": {
+    "type": "Feature",
+    "properties": {
+      "query": "Loer",
+      "pit": {
+        "hgid": "geonames/2751692",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2751692",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.69306,
+        51.81833
       ]
     }
   },
@@ -23260,17 +23450,17 @@
     "properties": {
       "query": "St. Michiels Gestel",
       "pit": {
-        "hgid": "kloeke/K312c",
+        "hgid": "geonames/2747234",
         "type": "hg:Place",
-        "uri": "http://www.meertens.knaw.nl/kloeke/index.php?kloekenummer=K312c",
-        "source": "kloeke"
+        "uri": "http://sws.geonames.org/2747234",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.11314181588,
-        51.114142747
+        5.35278,
+        51.64167
       ]
     }
   },
@@ -23711,22 +23901,41 @@
       ]
     }
   },
-  "Heeswijk": {
+  "H@@f": {
     "type": "Feature",
     "properties": {
-      "query": "Heeswijk",
+      "query": "H@@f",
       "pit": {
-        "hgid": "geonames/2754629",
+        "hgid": "geonames/2754656",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754629",
+        "uri": "http://sws.geonames.org/2754656",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.475,
-        51.65083
+        4.56389,
+        51.83583
+      ]
+    }
+  },
+  "Heeswijk": {
+    "type": "Feature",
+    "properties": {
+      "query": "Heeswijk",
+      "pit": {
+        "hgid": "tgn/7266218",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/7266218",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.466667,
+        51.65
       ]
     }
   },
@@ -24072,25 +24281,6 @@
       ]
     }
   },
-  "Nieuwleusen": {
-    "type": "Feature",
-    "properties": {
-      "query": "Nieuwleusen",
-      "pit": {
-        "hgid": "geonames/2750161",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2750161",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.28194,
-        52.5825
-      ]
-    }
-  },
   "Nuth": {
     "type": "Feature",
     "properties": {
@@ -24107,6 +24297,25 @@
       "coordinates": [
         5.88611,
         50.9175
+      ]
+    }
+  },
+  "Nieuwleusen": {
+    "type": "Feature",
+    "properties": {
+      "query": "Nieuwleusen",
+      "pit": {
+        "hgid": "geonames/2750161",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2750161",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.28194,
+        52.5825
       ]
     }
   },
@@ -24604,25 +24813,6 @@
       ]
     }
   },
-  "Made": {
-    "type": "Feature",
-    "properties": {
-      "query": "Made",
-      "pit": {
-        "hgid": "geonames/2751272",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2751272",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        4.79306,
-        51.67667
-      ]
-    }
-  },
   "Roggel": {
     "type": "Feature",
     "properties": {
@@ -24639,6 +24829,25 @@
       "coordinates": [
         5.92361,
         51.26333
+      ]
+    }
+  },
+  "Made": {
+    "type": "Feature",
+    "properties": {
+      "query": "Made",
+      "pit": {
+        "hgid": "geonames/2751272",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2751272",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.79306,
+        51.67667
       ]
     }
   },
@@ -25198,17 +25407,17 @@
     "properties": {
       "query": "Oost Cappelle",
       "pit": {
-        "hgid": "geonames/2758012",
+        "hgid": "tgn/7262847",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758012",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7262847",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.57778,
-        51.92917
+        4.983333,
+        51.7
       ]
     }
   },
@@ -26148,17 +26357,17 @@
     "properties": {
       "query": "Oosterhout - Gdl",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -26433,17 +26642,17 @@
     "properties": {
       "query": "Huissen (Gld)",
       "pit": {
-        "hgid": "geonames/2753504",
+        "hgid": "geonames/2753468",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2753504",
+        "uri": "http://sws.geonames.org/2753468",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.93333,
-        51.93833
+        5.24167,
+        52.29917
       ]
     }
   },
@@ -27527,6 +27736,25 @@
       "coordinates": [
         9.6167,
         52.4167
+      ]
+    }
+  },
+  "Zulichem": {
+    "type": "Feature",
+    "properties": {
+      "query": "Zulichem",
+      "pit": {
+        "hgid": "geonames/2743624",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2743624",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.13611,
+        51.80917
       ]
     }
   },
@@ -29340,17 +29568,17 @@
     "properties": {
       "query": "Oosterhout  G",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -29397,17 +29625,17 @@
     "properties": {
       "query": "Oosterhout - NBr",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -29549,17 +29777,17 @@
     "properties": {
       "query": "Z Bommel",
       "pit": {
-        "hgid": "geonames/2757253",
+        "hgid": "geonames/2744102",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2757253",
+        "uri": "http://sws.geonames.org/2744102",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.28472,
-        51.71583
+        5.24444,
+        51.81
       ]
     }
   },
@@ -30423,17 +30651,17 @@
     "properties": {
       "query": "Oosterhout (NB)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -30491,6 +30719,25 @@
       "coordinates": [
         5.65,
         52
+      ]
+    }
+  },
+  "Roosmalen": {
+    "type": "Feature",
+    "properties": {
+      "query": "Roosmalen",
+      "pit": {
+        "hgid": "geonames/2747910",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2747910",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.36528,
+        51.71667
       ]
     }
   },
@@ -30746,17 +30993,17 @@
     "properties": {
       "query": "Oosterhout (Geld.)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -31259,17 +31506,17 @@
     "properties": {
       "query": "Zwolle Carspel",
       "pit": {
-        "hgid": "geonames/2743477",
+        "hgid": "tgn/7007077",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2743477",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7007077",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        6.09444,
-        52.5125
+        6.083333,
+        52.5
       ]
     }
   },
@@ -31601,17 +31848,17 @@
     "properties": {
       "query": "Oosterhout(Gelderland)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -31829,17 +32076,17 @@
     "properties": {
       "query": "Oosterhout Geld",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -31954,6 +32201,25 @@
       "coordinates": [
         4.95,
         51.483333
+      ]
+    }
+  },
+  "Ortten": {
+    "type": "Feature",
+    "properties": {
+      "query": "Ortten",
+      "pit": {
+        "hgid": "geonames/2749248",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2749248",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.30468,
+        51.70613
       ]
     }
   },
@@ -32304,17 +32570,17 @@
     "properties": {
       "query": "Nes",
       "pit": {
-        "hgid": "geonames/2750420",
+        "hgid": "tgn/1047972",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2750420",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/1047972",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.85223,
-        53.05207
+        5.85,
+        53.05
       ]
     }
   },
@@ -32361,17 +32627,17 @@
     "properties": {
       "query": "Oosterhout - G",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -32874,17 +33140,17 @@
     "properties": {
       "query": "Cappelle (Pruissen)",
       "pit": {
-        "hgid": "geonames/2758012",
+        "hgid": "tgn/7262847",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758012",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7262847",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.57778,
-        51.92917
+        4.983333,
+        51.7
       ]
     }
   },
@@ -32912,17 +33178,17 @@
     "properties": {
       "query": "Ravenstijn",
       "pit": {
-        "hgid": "geonames/2758759",
+        "hgid": "tgn/7257503",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758759",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7257503",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.675,
-        51.60333
+        5.683333,
+        51.6
       ]
     }
   },
@@ -33596,17 +33862,17 @@
     "properties": {
       "query": "Cappelle",
       "pit": {
-        "hgid": "geonames/2758012",
+        "hgid": "tgn/7262847",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2758012",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7262847",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.57778,
-        51.92917
+        4.983333,
+        51.7
       ]
     }
   },
@@ -33938,17 +34204,17 @@
     "properties": {
       "query": "Oosterhout (Gld.)",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -34128,17 +34394,17 @@
     "properties": {
       "query": "Oosterhout N Br",
       "pit": {
-        "hgid": "geonames/2749450",
+        "hgid": "tgn/7006830",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749450",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7006830",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.85972,
-        51.645
+        4.883333,
+        51.65
       ]
     }
   },
@@ -34538,6 +34804,25 @@
       "coordinates": [
         5.116667,
         52.233333
+      ]
+    }
+  },
+  "Venroij(N.Br.)": {
+    "type": "Feature",
+    "properties": {
+      "query": "Venroij(N.Br.)",
+      "pit": {
+        "hgid": "geonames/2745634",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2745634",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.975,
+        51.525
       ]
     }
   },
@@ -35173,17 +35458,17 @@
     "properties": {
       "query": "Oudheusden",
       "pit": {
-        "hgid": "geonames/2748950",
+        "hgid": "tgn/7267192",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2748950",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/7267192",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.14028,
-        51.72333
+        5.133333,
+        51.733333
       ]
     }
   },
@@ -35382,17 +35667,17 @@
     "properties": {
       "query": "Haren (Nbr)",
       "pit": {
-        "hgid": "geonames/2754842",
+        "hgid": "tgn/1047811",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754842",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/1047811",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.58472,
-        51.80167
+        5.233333,
+        51.6
       ]
     }
   },
@@ -35534,17 +35819,17 @@
     "properties": {
       "query": "Haren (GR)",
       "pit": {
-        "hgid": "geonames/2754842",
+        "hgid": "tgn/1047811",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2754842",
-        "source": "geonames"
+        "uri": "http://vocab.getty.edu/tgn/1047811",
+        "source": "tgn"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.58472,
-        51.80167
+        5.233333,
+        51.6
       ]
     }
   },
@@ -35564,6 +35849,25 @@
       "coordinates": [
         5.8375,
         51.89833
+      ]
+    }
+  },
+  "Heese": {
+    "type": "Feature",
+    "properties": {
+      "query": "Heese",
+      "pit": {
+        "hgid": "geonames/2754618",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2754618",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.57145,
+        51.3828
       ]
     }
   },
@@ -35681,25 +35985,6 @@
       ]
     }
   },
-  "Ottersum (Limb.)": {
-    "type": "Feature",
-    "properties": {
-      "query": "Ottersum (Limb.)",
-      "pit": {
-        "hgid": "geonames/2749197",
-        "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2749197",
-        "source": "geonames"
-      }
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        5.98333,
-        51.70333
-      ]
-    }
-  },
   "Maashees (N.Br.)": {
     "type": "Feature",
     "properties": {
@@ -35719,22 +36004,41 @@
       ]
     }
   },
-  "Gennep (Limb.)": {
+  "Ottersum (Limb.)": {
     "type": "Feature",
     "properties": {
-      "query": "Gennep (Limb.)",
+      "query": "Ottersum (Limb.)",
       "pit": {
-        "hgid": "geonames/2755584",
+        "hgid": "geonames/2749197",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2755584",
+        "uri": "http://sws.geonames.org/2749197",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.97361,
-        51.69833
+        5.98333,
+        51.70333
+      ]
+    }
+  },
+  "Gennep (Limb.)": {
+    "type": "Feature",
+    "properties": {
+      "query": "Gennep (Limb.)",
+      "pit": {
+        "hgid": "geonames/2755585",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2755585",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.47361,
+        51.42083
       ]
     }
   },
@@ -36023,22 +36327,41 @@
       ]
     }
   },
-  "Zeeland (NBr)": {
+  "Doveren": {
     "type": "Feature",
     "properties": {
-      "query": "Zeeland (NBr)",
+      "query": "Doveren",
       "pit": {
-        "hgid": "geonames/2744014",
+        "hgid": "geonames/2756764",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2744014",
+        "uri": "http://sws.geonames.org/2756764",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.67639,
-        51.6975
+        5.0875,
+        51.72167
+      ]
+    }
+  },
+  "Zeeland (NBr)": {
+    "type": "Feature",
+    "properties": {
+      "query": "Zeeland (NBr)",
+      "pit": {
+        "hgid": "tgn/1048266",
+        "type": "hg:Place",
+        "uri": "http://vocab.getty.edu/tgn/1048266",
+        "source": "tgn"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.683333,
+        51.7
       ]
     }
   },
@@ -37263,17 +37586,17 @@
     "properties": {
       "query": "Hintham",
       "pit": {
-        "hgid": "tgn/7266798",
+        "hgid": "geonames/2754051",
         "type": "hg:Place",
-        "uri": "http://vocab.getty.edu/tgn/7266798",
-        "source": "tgn"
+        "uri": "http://sws.geonames.org/2754051",
+        "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.35,
-        51.7
+        5.33889,
+        51.69917
       ]
     }
   },
@@ -38707,17 +39030,17 @@
     "properties": {
       "query": "Kritzendorf bij Weenen",
       "pit": {
-        "hgid": "geonames/2744483",
+        "hgid": "geonames/2755597",
         "type": "hg:Place",
-        "uri": "http://sws.geonames.org/2744483",
+        "uri": "http://sws.geonames.org/2755597",
         "source": "geonames"
       }
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.34167,
-        51.97417
+        5.97083,
+        51.8775
       ]
     }
   },
@@ -39041,6 +39364,25 @@
       "coordinates": [
         5.51681522288,
         50.9679207966
+      ]
+    }
+  },
+  "Sl@uten": {
+    "type": "Feature",
+    "properties": {
+      "query": "Sl@uten",
+      "pit": {
+        "hgid": "geonames/2749053",
+        "type": "hg:Place",
+        "uri": "http://sws.geonames.org/2749053",
+        "source": "geonames"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.53472,
+        51.58833
       ]
     }
   },

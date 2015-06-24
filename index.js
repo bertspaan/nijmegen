@@ -10,7 +10,7 @@ var data = {
   place: require('./data/places.json'),
   streetFailed: require('./data/streets-failed.json'),
   placeFailed: require('./data/places-failed.json'),
-  br: require('./data/br.json')
+  br: {}
 };
 
 function createQueries(row) {

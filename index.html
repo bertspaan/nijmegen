@@ -15,14 +15,38 @@
 
       #map {
         position: absolute;
-        width: 100%;
+        left: 0;
+        right: 300px;
         height: 100%;
+      }
+
+      #sidebar {
+        position: absolute;
+        width: 300px;
+        right: 0;
+        height: 100%;
+        overflow-y: scroll;
+      }
+
+      #sidebar-content {
+        padding: 10px;
       }
     </style>
   </head>
   <body>
   	</header>
     <div id="map"></div>
+    <div id="sidebar">
+      <div id="sidebar-content">
+        <h3 id="street-name">Klik op straat!</h3>
+        <h4>Beroepen</h4>
+        <table id="occupations">
+        </table>
+        <h4>Geboorteplaats</h4>
+        <table id="places">
+        </table>
+      </div>
+    </div>
     <script>
       var tileUrl = 'http://otile2.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png';
       var map = L.map('map');
@@ -44,8 +68,58 @@
       function onEachFeature(feature, layer) {
         layer.on({
           click: function() {
-            var street = feature.properties.query;
-            console.log(br[street])
+            d3.select('#street-name').html(feature.properties.query);
+            var data = br[feature.properties.query];
+
+            d3.select('#occupations').selectAll('tr').remove();
+            d3.select('#places').selectAll('tr').remove();
+
+            if (data) {
+              var occupations = [];
+              var places = [];
+
+              for (beroep in data.beroep) {
+                if (beroep && data.beroep[beroep] > 0) {
+                  occupations.push({
+                    occupation: beroep,
+                    count: data.beroep[beroep]
+                  });
+                }
+              }
+
+              for (geboorteplaats in data.geboorteplaats) {
+                if (geboorteplaats && data.geboorteplaats[geboorteplaats] > 0) {
+                  places.push({
+                    place: geboorteplaats,
+                    count: data.geboorteplaats[geboorteplaats]
+                  });
+                }
+              }
+
+              occupations.sort(function(a, b){
+                return b.count - a.count; }
+              );
+
+              places.sort(function(a, b){
+                return b.count - a.count; }
+              );
+
+              var tr = d3.select('#occupations').selectAll('tr').data(occupations.slice(0, 30))
+                .enter()
+                .append('tr');
+
+              tr.append('td').html(function(d) { return d.occupation; });
+              tr.append('td').html(function(d) { return d.count; });
+
+
+              var tr = d3.select('#places').selectAll('tr').data(places.slice(0, 30))
+                .enter()
+                .append('tr');
+
+              tr.append('td').html(function(d) { return d.place; });
+              tr.append('td').html(function(d) { return d.count; });
+
+            }
           }
         });
       }
