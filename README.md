@@ -30,3 +30,7 @@ Dan:
     $ node index.js
 
 Dan `index.html` in browser openen, liefst via lokale webserver, bv. met `python -m SimpleHTTPServer`.
+
+## NDJSON
+
+NDJSON-bestanden staan in [`nijmegen-streets`](nijmegen-streets).
